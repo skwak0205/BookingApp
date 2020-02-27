@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_Reservation">Reservation</string>
+    <string name="title_notifications">Menu</string>
+    <string name="title_reserveHistory">Status</string>
+    <string name="title_bookingHistory">Booking History</string>
+
+    <string-array name="time">
+        <item>9:00 a.m</item>
+        <item>10:00 a.m</item>
+        <item>11:00 a.m</item>
+        <item>12:00 a.m</item>
+        <item>13:00 p.m</item>
+        <item>14:00 p.m</item>
+        <item>15:00 p.m</item>
+        <item>16:00 p.m</item>
+        <item>17:00 p.m</item>
+        <item>18:00 p.m</item>
+    </string-array>
+    <string name="title_activity_sandwich">SandwichActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="burger1">Bacon / Cheddar Angus --- $ 7.99</string>
+    <string name="burger2">Big Mac --- $ 5.99</string>
+    <string name="burger3">BLT with Crispy Chicken --- $ 6.99</string>
+
+    <string name="sandwich1">Chicken / Bacon Ranch Melt --- $ 9.99</string>
+    <string name="sandwich2">Meatball Marinara --- $ 10.99</string>
+    <string name="sandwich3">Steak / Cheese --- $ 12.99</string>
+</resources>
